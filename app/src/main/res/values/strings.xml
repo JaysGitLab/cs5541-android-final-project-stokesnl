@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">PocketTurchin</string>
     <string name="defaultval">No value set</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear</string>
+    <string name="favorites">Favorites</string>
+    <string name="non_favorites">All</string>
+    <string name="about">About</string>
 </resources>
